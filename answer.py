@@ -84,7 +84,7 @@ Explanation: [1,2,3] is already strictly increasing, so return true.
 """
 def canBeIncreasing(nums):
 
-    return ans1 or ans2
+    # write your code here
 """
 Questons 4:
 ========================================================================================================
